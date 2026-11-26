@@ -12,3 +12,5 @@ jc21/nginx-proxy-manager:latest
 ghcr.io/karakeep-app/karakeep:release
 ghcr.io/karakeep-app/karakeep-chrome:release
 getmeili/meilisearch:v1.41.0
+
+node:18-alpine
